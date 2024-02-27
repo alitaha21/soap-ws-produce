@@ -1,0 +1,12 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://www.example.com/spring/ws">
+	   <soapenv:Header/>
+	      <soapenv:Body>
+		            <ws:CustomerRequest>
+				             <ws:customerName>ALi</ws:customerName>
+					              <ws:age>32</ws:age>
+						               <ws:yearlyIncome>787878787878</ws:yearlyIncome>
+							                <ws:cibilScore>600</ws:cibilScore>
+									         <ws:employmentMode>Full-Time</ws:employmentMode>
+										       </ws:CustomerRequest>
+										          </soapenv:Body>
+										  </soapenv:Envelope>
